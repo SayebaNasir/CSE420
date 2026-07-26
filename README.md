@@ -15,3 +15,22 @@ Final: 30 (No option will be given in the question)
 
 70% attendance is mandatory for theory, 90% attendance is mandatory for lab to sit for the final exam
 
+# Exam Format and Marks Distribution:
+
+The examination will include both theory-based and simulation-based questions. The marks will be distributed as follows:
+
+Easy Questions (Memorization): 35%
+
+
+Moderate Questions (Interpretation): 35%
+
+
+Hard Questions (Consequence/Implementation): 20%
+
+
+Advanced Hard Questions (Consequence/Implementation): 10%
+
+
+This distribution ensures a balanced assessment of conceptual understanding, analytical skills, and practical application.
+
+
