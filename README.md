@@ -1,5 +1,5 @@
 # CSE420
-Summer'26
+Summer'26 ; BRAC University
 
 CSE420 Course Marks Distribution
 
