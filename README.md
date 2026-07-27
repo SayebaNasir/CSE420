@@ -1,6 +1,8 @@
 # CSE420
 Summer'26 ; BRAC University
 
+PlayList: https://youtube.com/playlist?list=PLXfid7WbmqhB9VXiWGkwKbQm_hzvtivoW&si=I-pOKLBGqUmKJ7sa
+
 CSE420 Course Marks Distribution
 
 Quiz : 15 (n-1 quizzes will be counted out of n quizzes taken. Ideally, n is 4 or more)
